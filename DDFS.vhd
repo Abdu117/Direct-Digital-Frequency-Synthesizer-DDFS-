@@ -13,7 +13,7 @@ entity DDFS is
 		reset     : in  std_logic;                      -- async reset
 		wave      : in  std_logic_vector(2   downto 0); -- Generated waveform.
 		fw    	  : in  std_logic_vector(N-1 downto 0); -- frequency word
-		--flag_sine : out  std_logic;                      -- flag_sine wave
+		--flag_sine : out  std_logic;                   -- flag_sine wave
 		yq        : out std_logic_vector(M-1 downto 0)  -- sin quantized. M is the size
 	);
 end entity DDFS;
