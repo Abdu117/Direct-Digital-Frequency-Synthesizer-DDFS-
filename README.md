@@ -11,7 +11,7 @@ the synthesizer completes one waveform then governs the frequency.
 ## Schematic Diagram (Circuit Diagram):
 ![1](https://user-images.githubusercontent.com/101186125/197239007-7a587d08-1c18-4726-94d1-89fe3537e2c3.PNG)
 
-## Generated Waves
+## Generated Waves:
 ### 1. Square wave.
 
 ![1](https://user-images.githubusercontent.com/101186125/197239574-f0e66049-f372-4bef-83e8-23dea5877d31.jpeg)
