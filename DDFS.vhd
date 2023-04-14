@@ -63,5 +63,5 @@ architecture struct of DDFS is
 				  (lut_output)															   										 when "111", -- double sided staircase wave.
 				  std_logic_vector(to_unsigned(0, yq'length))                            										 when others;
 
-end struct;
+end struct; 
 
